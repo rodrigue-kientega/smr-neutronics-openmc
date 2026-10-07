@@ -1,0 +1,3 @@
+numpy>=1.24
+matplotlib>=3.6
+# plus OpenMC for pin_cell.py: https://docs.openmc.org
